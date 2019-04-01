@@ -1,0 +1,30 @@
+.jumbotron {
+  background-color: darkgrey;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  border-bottom: 3px solid rgb(207, 224, 106);
+}
+
+.banner {
+  font-size: 100px;
+  color: rgb(207, 224, 106);
+}
+
+#buttons-view {
+  padding: 10px;
+}
+
+#add-gif {
+  background-color: blueviolet;
+  color: lightblue;
+}
+
+.gif {
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+#gifs-appear-here {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
